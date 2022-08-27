@@ -1,5 +1,5 @@
 const express = require('express');
-const morgan = require('morgan')
+const morgan = require('morgan');
 
 const hostname = 'localhost';
 const port = 3000;
